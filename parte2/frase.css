@@ -49,6 +49,7 @@ span {
   animation: swap 3s linear 4s infinite forwards;
 }
 .text-2 {
+  transform: translate(30px, 60px);
   animation: swap 3s linear 2s infinite forwards;
 }
 .text-3 {
